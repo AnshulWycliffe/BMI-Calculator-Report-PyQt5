@@ -1,2 +1,4 @@
 docxtpl==0.17.0
 PyQt5==5.15.9
+auto-py-to-exe==2.29.1
+pyinstaller==5.8.0
